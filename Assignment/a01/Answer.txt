@@ -1,0 +1,4 @@
+
+
+
+Answer: int 80h is a Interupt for linux to invoke the system call.
